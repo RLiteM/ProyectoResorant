@@ -24,7 +24,7 @@ public class Cine {
        
        Pelicula pelicula = new Pelicula(nombre, fechatr, duracion);
        metodo.agregarPelicula(pelicula);
-
+       // agregar un while
         
     }
 }
